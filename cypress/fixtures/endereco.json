@@ -1,0 +1,62 @@
+[
+{
+    "nome": "Frodo",
+    "sobreNome": "Bolseiro",
+    "empresa": "Precioso",
+    "pais": "Brasil",
+    "endereco": "condado",
+    "apartamento": "Bloco 15 Apartamento 20",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro",
+    "cep": "25244600",
+    "telefone": "566555441",
+    "email": "frodobolseiro@senhordosaneis.com",
+    "senha": "frodo@saneis4",
+    "comentario": "Longe dos orcs"
+},
+{
+    "nome": "Ash",
+    "sobreNome": "katun",
+    "empresa": "Pokemon",
+    "pais": "Brasil",
+    "endereco": "Rua dos matos",
+    "apartamento": "Bloco 15 Apartamento 20",
+    "cidade": "Pallet",
+    "estado": "São Paulo",
+    "cep": "25244600",
+    "telefone": "566555441",
+    "email": "ash@pokemon.com",
+    "senha": "ash@saneis4",
+    "comentario": "Próximo de Viridian"
+},
+    {
+    "nome": "Naruto",
+    "sobreNome": "Uzumaki",
+    "empresa": "Rasengan",
+    "pais": "Brasil",
+    "endereco": "condado",
+    "apartamento": "Bloco 15 Apartamento 20",
+    "cidade": "Vila da Folha",
+    "estado": "Maranhão",
+    "cep": "25244600",
+    "telefone": "566555441",
+    "email": "Naruto@konoha.com",
+    "senha": "naruto@saneis4",
+    "comentario": "No pais do fogo"
+},
+{
+    "nome": "Sask",
+    "sobreNome":"Uchirra",
+    "empresa":"Chidori",
+    "pais":"Brasil",
+    "endereco": "condado",
+    "apartamento": "Bloco 15 Apartamento 20",
+    "cidade":"Rio de Janeiro",
+    "estado":"Amazonas",
+    "cep":"25244600",
+    "telefone":"566555441",
+    "email":"sask@senhordosaneis.com",
+    "senha":"sask@saneis4",
+    "comentario":"Longe dos orcs"
+    }
+]
