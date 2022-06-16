@@ -10,7 +10,7 @@
     "estado": "Rio de Janeiro",
     "cep": "25244600",
     "telefone": "566555441",
-    "email": "frodobolseiro@senhordosaneis.com",
+    "email": "frobolseiro@senhordosaneis.com",
     "senha": "frodo@saneis4",
     "comentario": "Longe dos orcs"
 },
@@ -25,7 +25,7 @@
     "estado": "São Paulo",
     "cep": "25244600",
     "telefone": "566555441",
-    "email": "ash@pokemon.com",
+    "email": "ash.poke@pokemon.com",
     "senha": "ash@saneis4",
     "comentario": "Próximo de Viridian"
 },
@@ -40,7 +40,7 @@
     "estado": "Maranhão",
     "cep": "25244600",
     "telefone": "566555441",
-    "email": "Naruto@konoha.com",
+    "email": "naruto.konoha@konoha.com",
     "senha": "naruto@saneis4",
     "comentario": "No pais do fogo"
 },
@@ -55,7 +55,7 @@
     "estado":"Amazonas",
     "cep":"25244600",
     "telefone":"566555441",
-    "email":"sask@senhordosaneis.com",
+    "email":"saskkan@senhordosaneis.com",
     "senha":"sask@saneis4",
     "comentario":"Longe dos orcs"
     }
