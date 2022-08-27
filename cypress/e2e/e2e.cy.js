@@ -15,9 +15,10 @@ describe('Teste end 2 end - Fluxo de pedido', () => {
         cy.login(dados.usuario, dados.senha)
         })
 
-        cy.selecaoProdutos('Hyperion Elements Jacket', 'XS', 'Green', quantidade)
-        cy.selecaoProdutos('Jupiter All-Weather Trainer', 'XS', 'Blue', quantidade)
-        cy.selecaoProdutos('Ingrid Running Jacket', 'L', 'Orange', quantidade)
+        cy.selecaoProdutos('Kenobi Trail Jacket', 'XS', 'Black', quantidade)
+        cy.selecaoProdutos('Lando Gym Jacket', 'S', 'Blue', quantidade)
+        cy.selecaoProdutos('Mach Street Sweatshirt', 'M', 'Red', quantidade)
+        
         dadosFaturamento.addDados2(dadosEndereco[2].nome,
         dadosEndereco[2].sobreNome, dadosEndereco[2].empresa, dadosEndereco[2].pais, dadosEndereco[2].endereco,
         dadosEndereco[2].apartamento, dadosEndereco[2].cidade, dadosEndereco[2].estado, dadosEndereco[2].cep,

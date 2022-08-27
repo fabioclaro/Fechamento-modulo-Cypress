@@ -43,6 +43,7 @@ Cypress.Commands.add('selecaoProdutos', (produto, tamanho, cor, quantidade) => {
 Cypress.Commands.add('checkout', () => {
     cy.get('#terms').check()
     cy.get('#place_order').click()
+    cy.get('.page-title').click()
 })
 
 
