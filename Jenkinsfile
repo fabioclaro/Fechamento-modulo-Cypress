@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clonar o repositorio'){
             steps {
-                git branch: 'main', url: 'https://github.com/fabioclaro/teste-api-automatizado.git'
+                git branch: 'main', url: 'https://github.com/fabioclaro/Fechamento-modulo-Cypress.git'
             }      
         }
         stage('Instalar dependencias'){
